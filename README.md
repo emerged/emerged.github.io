@@ -1,2 +1,2 @@
 # Temporary landing page
-[Emerged Technologies](emergedtech.com)
+[Emerged Technologies](http://emergedtech.com)
